@@ -31,10 +31,11 @@ p {
 }
 
 /*menu */
-nav{
-    padding-top: 0px;
-    padding-bottom: 0px;
-    font-size: ;
+.menu{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: yellow;
 }
 
 li{
