@@ -20,16 +20,17 @@ body {
     text-align: center;
 }
 
-p {
-    
-}
-
 .imgcentro {
     display: block;
     margin: auto;
     width: 300px;
 }
 
+p {
+    
+}
+
+/*menu */
 nav{
     padding-top: 0px;
     padding-bottom: 0px;
@@ -46,13 +47,13 @@ li{
 }
 
 /*onde vai os codigos abaixo: li ou li a?????? */
-    text-decoration: none;
-    color: ;
+
 
 
 li a{
-    font-size: 50px;
-
+    font-size: 100px;
+    text-decoration: none;
+    color: red;
 }
 
 button{
