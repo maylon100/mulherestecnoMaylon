@@ -35,16 +35,16 @@ p {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 20px;
-    color: yellow;
+
 }
 
-li{
+.menu li{
     text-align: ;
     display: inline-block;
     /* padding: 0px 50px 0px 10px; */
     font-size: ;
     font-family: Verdana ;
-
+    color: yellow;
 }
 
 li a{
