@@ -44,13 +44,13 @@ p {
     /* padding: 0px 50px 0px 10px; */
     font-size: ;
     font-family: Verdana ;
-    color: yellow;
+
 }
 
-li a{
+.menu li a{
     font-size: 20px;
     text-decoration: none;
-    color: rgb(82, 29, 29);
+    color: yellow;
     padding: 2em;
 
 }
